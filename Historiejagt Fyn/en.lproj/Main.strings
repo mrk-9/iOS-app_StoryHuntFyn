@@ -1,0 +1,57 @@
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "0ee-hB-ByU"; */
+"0ee-hB-ByU.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Kortindstillinger"; ObjectID = "5RT-TH-nKk"; */
+"5RT-TH-nKk.text" = "Map settings";
+
+/* Class = "UILabel"; text = "Historiejagt Fyn"; ObjectID = "7AC-HI-qoa"; */
+"7AC-HI-qoa.text" = "Story Hunt Fyn";
+
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "AhL-MP-1GL"; */
+"AhL-MP-1GL.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "FR3-NC-uwg"; */
+"FR3-NC-uwg.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Se mere"; ObjectID = "Fnq-Gt-mB7"; */
+"Fnq-Gt-mB7.normalTitle" = "More...";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "JtN-yv-HNK"; */
+"JtN-yv-HNK.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "LC2-PX-aMf"; */
+"LC2-PX-aMf.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Se mere"; ObjectID = "Rm2-rZ-Nne"; */
+"Rm2-rZ-Nne.normalTitle" = "More...";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "ZeH-49-DSd"; */
+"ZeH-49-DSd.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Velkommen til Historiejagt Fyn"; ObjectID = "aFQ-lI-k7F"; */
+"aFQ-lI-k7F.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Videre"; ObjectID = "aGF-hi-O6L"; */
+"aGF-hi-O6L.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "cTt-xM-SF9"; */
+"cTt-xM-SF9.text" = "Scan image";
+
+/* Class = "UILabel"; text = "Quiz - test dig selv"; ObjectID = "dXi-OH-98N"; */
+"dXi-OH-98N.text" = "Quiz - test yourself";
+
+/* Class = "UIButton"; normalTitle = "Se på kort"; ObjectID = "jIN-WV-3TC"; */
+"jIN-WV-3TC.normalTitle" = "See on map";
+
+/* Class = "UILabel"; text = "Ruteoversigt"; ObjectID = "mDQ-Id-6wH"; */
+"mDQ-Id-6wH.text" = "List of routes";
+
+/* Class = "UILabel"; text = "AR View"; ObjectID = "oSq-uP-vsD"; */
+"oSq-uP-vsD.text" = "Catch the story";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "wEF-u9-b0Z"; */
+"wEF-u9-b0Z.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "waM-A6-V0y"; */
+"waM-A6-V0y.normalTitle" = "Back";
+

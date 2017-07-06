@@ -1,0 +1,4 @@
+/* (No Commment) */
+"CFBundleName" = "Geschichtesuche Fünen";
+"NSLocationAlwaysUsageDescription" = "Geschichtesuche Fünen benötigt GPS um Geschichtspunkte zu lokalisieren.";
+"NSLocationWhenInUseUsageDescription" = "Geschichtesuche Fünen benötigt GPS um Geschichtspunkte zu lokalisieren.";

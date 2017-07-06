@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gpx
+ version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="55.395062" lon="10.389745">
+ <name>Uhyggelige Odense_Jomfruspringet_Jomfruspringet</name>
+ <time>2014-12-02T08:08:30</time>
+</wpt>
+
+</gpx>

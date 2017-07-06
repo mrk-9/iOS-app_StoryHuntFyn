@@ -1,0 +1,51 @@
+/* Combined title and amount of total */
+"%@: %ld af %ld" = "%1$@: Geladen %2$ld von %3$ld";
+
+/* Text for ar button in tabbar */
+"AR View" = "AR View";
+
+/* No comment provided by engineer. */
+"AR View er ikke understøttet på iPhone 4!" = "AR View wird nicht unterstützt auf iPhone 4!";
+
+/* No comment provided by engineer. */
+"Afspil lyde automatisk" = "Geräusche automatisch abspielen";
+
+/* Text for alert view telling that the user must be closer to this poi to see info */
+"Besøg stedet, for at åbne for denne historie." = "Besuchen Sie die Position um die Geschichte zu fangen und zu erleben.";
+
+/* The message to send as local notification */
+"Du har fundet et punkt: %@" = "Sie haben einen Punkt gefunden: %@";
+
+/* (No Commment) */
+"Fejl" = "Fehler";
+
+/* Description about settings */
+"Her kan du ændre indstillinger vedrørende kort og brugen af dette" = "Hier können sie die Einstellungen für die Karte und die Anwendung der Karte ändern.";
+
+/* No comment provided by engineer. */
+"Historiejagt Fyn fejlede opdatering af data. Prøv igen!" = "Geschichtesuche Fünen konnte nicht die Daten aktualisieren. Versuchen Sie es erneut!";
+
+/* No comment provided by engineer. */
+"Historiejagt Fyn har behov for at hente data fra internettet. Opret forbindelse og prøv igen." = "Geschichtesuche Fünen muss Daten vom Internet holen. Bitte verbinden und erneut versuchen.";
+
+/* Description - which routes to show per default on map */
+"Hvilke ruter vil du tilføje som standard på kortet?" = "Welche Routen wollen Sie als Standard zur Karte hinzufügen?";
+
+/* title for alert view shown when an iPhone 4 is used and the view to show is AR VIEW */
+"Ikke understøttet" = "Nicht unterstützt";
+
+/* Text for map button in tabbar */
+"Kort" = "Karte";
+
+/* title for facts page */
+"Praktisk information" = "Praktische Informationen";
+
+/* Text for routes button in tabbar */
+"Ruter" = "Routen";
+
+/* Text for scan button in tabbar */
+"Scan" = "Scan";
+
+/* No comment provided by engineer. */
+"Vis rute på kortet" = "Route auf der Karte zeigen";
+

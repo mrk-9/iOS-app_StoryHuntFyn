@@ -1,0 +1,4 @@
+/* (No Commment) */
+"CFBundleName" = "Historiejagt Fyn";
+"NSLocationAlwaysUsageDescription" = "Historiejagt Fyn kræver GPS for at lokaliserer historielokationer.";
+"NSLocationWhenInUseUsageDescription" = "Historiejagt Fyn kræver GPS for at lokaliserer historielokationer.";

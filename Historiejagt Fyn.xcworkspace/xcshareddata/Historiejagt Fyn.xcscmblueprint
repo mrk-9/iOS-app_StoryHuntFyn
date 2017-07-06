@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3636f9ac-8972-4230-bece-ba6b58feee35",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3636f9ac-8972-4230-bece-ba6b58feee35" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3636f9ac-8972-4230-bece-ba6b58feee35" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4E435BF7-3476-4420-BA74-ECBA123D783C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3636f9ac-8972-4230-bece-ba6b58feee35" : "7.0%20for%20git\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Historiejagt Fyn",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Historiejagt Fyn.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/95.211.195.134\/var\/svn\/historiefynios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3636f9ac-8972-4230-bece-ba6b58feee35"
+    }
+  ]
+}

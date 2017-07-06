@@ -1,0 +1,4 @@
+/* (No Commment) */
+"CFBundleName" = "Story Hunt Fyn";
+"NSLocationAlwaysUsageDescription" = "Story Hunt Fyn requires GPS to locate history locations";
+"NSLocationWhenInUseUsageDescription" = "Story Hunt Fyn requires GPS to locate history locations";

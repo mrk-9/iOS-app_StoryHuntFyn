@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gpx
+ version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="55.39894334991835" lon="10.38725271821022">
+ <name>Uhyggelige Odense_Odense Slot_Dræberspøgelset</name>
+ <time>2014-12-02T08:10:30</time>
+</wpt>
+
+</gpx>

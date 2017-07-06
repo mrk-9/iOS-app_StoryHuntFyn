@@ -1,0 +1,74 @@
+PODS:
+  - Bolts/Tasks (1.8.4)
+  - Canvas (0.1.2)
+  - CocoaLumberjack (2.2.0):
+    - CocoaLumberjack/Default (= 2.2.0)
+    - CocoaLumberjack/Extensions (= 2.2.0)
+  - CocoaLumberjack/Core (2.2.0)
+  - CocoaLumberjack/Default (2.2.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.2.0):
+    - CocoaLumberjack/Default
+  - DateTools (1.7.0)
+  - Flurry-iOS-SDK (7.3.0):
+    - Flurry-iOS-SDK/FlurrySDK (= 7.3.0)
+  - Flurry-iOS-SDK/FlurrySDK (7.3.0)
+  - HOCReachabilityHelper-ios (0.1.0):
+    - Reachability
+  - MOGOpenBookSegue (1.0.3)
+  - Moodstocks-iOS-SDK (4.1.7)
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+  - Reachability (3.2)
+  - TYMProgressBarView (0.3.2)
+  - uidevice-segmentation-ios (0.0.2)
+  - YapDatabase (2.7.3):
+    - YapDatabase/standard (= 2.7.3)
+  - YapDatabase/standard (2.7.3):
+    - CocoaLumberjack (~> 2)
+
+DEPENDENCIES:
+  - Canvas
+  - DateTools
+  - Flurry-iOS-SDK
+  - HOCReachabilityHelper-ios (from `https://bitbucket.org/houseofcode/hocreachabilityhelper-ios.git`)
+  - MOGOpenBookSegue
+  - Moodstocks-iOS-SDK (= 4.1.7)
+  - Parse (= 1.14.2)
+  - Reachability
+  - TYMProgressBarView
+  - uidevice-segmentation-ios (from `https://bitbucket.org/houseofcode/uidevice-segmentation-ios.git`)
+  - YapDatabase
+
+EXTERNAL SOURCES:
+  HOCReachabilityHelper-ios:
+    :git: https://bitbucket.org/houseofcode/hocreachabilityhelper-ios.git
+  uidevice-segmentation-ios:
+    :git: https://bitbucket.org/houseofcode/uidevice-segmentation-ios.git
+
+CHECKOUT OPTIONS:
+  HOCReachabilityHelper-ios:
+    :commit: dfaf6e3ce6392dc7f3570b386533b56f657d3baa
+    :git: https://bitbucket.org/houseofcode/hocreachabilityhelper-ios.git
+  uidevice-segmentation-ios:
+    :commit: 6a1f0ceb2384374fb11653cb63c88bd238900928
+    :git: https://bitbucket.org/houseofcode/uidevice-segmentation-ios.git
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  CocoaLumberjack: 17fe8581f84914d5d7e6360f7c70022b173c3ae0
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  Flurry-iOS-SDK: 054befae0fa0244fb000985bfe757d70f87a9f60
+  HOCReachabilityHelper-ios: 6f210356bff8922b12e9da23a0e2b3faa57cca0a
+  MOGOpenBookSegue: 778cd4df9c11682037adfa13bce4e339ea6ec1df
+  Moodstocks-iOS-SDK: 82312144702da68eda01306d2aa9f1cfa9423c90
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  TYMProgressBarView: 9f4c54bfd1cde0340f25a8c67e6c3548611f1a8e
+  uidevice-segmentation-ios: 0a8f8bd482b1147353a56c0b3c065624369b3aff
+  YapDatabase: 6d6a30e97face6c3158830823c27614afe83e1e0
+
+PODFILE CHECKSUM: f16881ea501e37692d3a01172e44157ba7e56d5b
+
+COCOAPODS: 1.0.1

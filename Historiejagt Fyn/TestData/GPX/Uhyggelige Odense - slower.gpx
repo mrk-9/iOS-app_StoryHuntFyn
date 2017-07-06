@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<gpx
+ version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="55.392405" lon="10.381546">
+ <name>Uhyggelige Odense_Hans Schults trefork</name>
+ <time>2015-02-16T19:25:00</time>
+</wpt>
+
+<wpt lat="55.392059" lon="10.384511">
+ <name>Uhyggelige Odense_Hans Schults trefork_Afhøring</name>
+ <time>2015-02-16T19:26:30</time>
+</wpt>
+
+<wpt lat="55.392586" lon="10.383288">
+ <name>Uhyggelige Odense_Hans Schults trefork_Opskriften på treforken</name>
+ <time>2015-02-16T19:28:00</time>
+</wpt>
+
+<wpt lat="55.390641" lon="10.382294">
+ <name>Uhyggelige Odense_Hans Schults trefork_Retsmødet</name>
+ <time>2015-02-16T19:29:30</time>
+</wpt>
+
+<wpt lat="55.391695698069384" lon="10.38255751132965">
+ <name>Uhyggelige Odense_Hans Schults trefork_Trolddom?</name>
+ <time>2015-02-16T19:31:00</time>
+</wpt>
+
+<wpt lat="55.395463" lon="10.38818">
+ <name>Uhyggelige Odense_Jomfruspringet</name>
+ <time>2015-02-16T19:33:30</time>
+</wpt>
+
+<wpt lat="55.394971" lon="10.387661">
+ <name>Uhyggelige Odense_Jomfruspringet_Hælaftrykket</name>
+ <time>2015-02-16T19:35:00</time>
+</wpt>
+
+<wpt lat="55.395062" lon="10.389745">
+ <name>Uhyggelige Odense_Jomfruspringet_Jomfruspringet</name>
+ <time>2015-02-16T19:36:30</time>
+</wpt>
+
+<wpt lat="55.39560453792377" lon="10.388895571231842">
+ <name>Uhyggelige Odense_Jomfruspringet_Sankt Knuds Kirketårn</name>
+ <time>2015-02-16T19:38:00</time>
+</wpt>
+
+<wpt lat="55.39652152076725" lon="10.391121804714203">
+ <name>Uhyggelige Odense_Klokkedybet</name>
+ <time>2015-02-16T19:40:30</time>
+</wpt>
+
+<wpt lat="55.396129" lon="10.391421">
+ <name>Uhyggelige Odense_Klokkedybet_Mester Eskil</name>
+ <time>2015-02-16T19:42:00</time>
+</wpt>
+
+<wpt lat="55.39586044225234" lon="10.391894280910492">
+ <name>Uhyggelige Odense_Klokkedybet_Odense Å</name>
+ <time>2015-02-16T19:43:30</time>
+</wpt>
+
+<wpt lat="55.396086" lon="10.392418">
+ <name>Uhyggelige Odense_Klokkedybet_Åmanden</name>
+ <time>2015-02-16T19:45:00</time>
+</wpt>
+
+<wpt lat="55.39170788523225" lon="10.388568341732025">
+ <name>Uhyggelige Odense_Munkene i Mosen</name>
+ <time>2015-02-16T19:46:30</time>
+</wpt>
+
+<wpt lat="55.39201865661595" lon="10.388380587100983">
+ <name>Uhyggelige Odense_Munkene i Mosen_Kong Erik Lam</name>
+ <time>2015-02-16T19:48:00</time>
+</wpt>
+
+<wpt lat="55.391788" lon="10.387793">
+ <name>Uhyggelige Odense_Munkene i Mosen_Nonnebakken</name>
+ <time>2015-02-16T19:49:30</time>
+</wpt>
+
+<wpt lat="55.393053" lon="10.38952">
+ <name>Uhyggelige Odense_Munkene i Mosen_Synder</name>
+ <time>2015-02-16T19:51:00</time>
+</wpt>
+
+<wpt lat="55.392538" lon="10.388301">
+ <name>Uhyggelige Odense_Munkene i Mosen_Underjordisk tunnel</name>
+ <time>2015-02-16T19:52:30</time>
+</wpt>
+
+<wpt lat="55.398564" lon="10.386377">
+ <name>Uhyggelige Odense_Odense Slot</name>
+ <time>2015-02-16T19:54:00</time>
+</wpt>
+
+<wpt lat="55.39894334991835" lon="10.38725271821022">
+ <name>Uhyggelige Odense_Odense Slot_Dræberspøgelset</name>
+ <time>2015-02-16T19:55:30</time>
+</wpt>
+
+<wpt lat="55.400351" lon="10.386497">
+ <name>Uhyggelige Odense_Odense Slot_Hospital</name>
+ <time>2015-02-16T19:57:00</time>
+</wpt>
+
+<wpt lat="55.400278" lon="10.38537">
+ <name>Uhyggelige Odense_Odense Slot_Prins Christian</name>
+ <time>2015-02-16T19:59:30</time>
+</wpt>
+
+<wpt lat="55.399088" lon="10.385928">
+ <name>Uhyggelige Odense_Odense Slot_Prins Christians død</name>
+ <time>2014-12-02T20:30</time>
+</wpt>
+
+</gpx>

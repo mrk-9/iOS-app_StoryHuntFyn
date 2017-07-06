@@ -1,0 +1,60 @@
+/* Combined title and amount of total */
+"%@: %ld af %ld" = "%1$@: %2$ld out of %3$ld";
+
+/* Text for ar button in tabbar */
+"AR View" = "";
+
+/* No comment provided by engineer. */
+"AR View er ikke understøttet på iPhone 4!" = "";
+
+/* No comment provided by engineer. */
+"Afspil lyde automatisk" = "Play sounds automatically";
+
+/* Text for alert view telling that the user must be closer to this poi to see info */
+"Besøg stedet, for at åbne for denne historie." = "Visit the area to catch and experience the story.";
+
+/* The message to send as local notification */
+"Du har fundet et punkt: %@" = "";
+
+/* (No Commment) */
+"Fejl" = "Error";
+
+/* Description about settings */
+"Her kan du ændre indstillinger vedrørende kort og brugen af dette" = "Change settings for the map and it use";
+
+/* No comment provided by engineer. */
+"Historiejagt Fyn fejlede opdatering af data. Prøv igen!" = "";
+
+/* No comment provided by engineer. */
+"Historiejagt Fyn har behov for at hente data fra internettet. Opret forbindelse og prøv igen." = "";
+
+/* Description - which routes to show per default on map */
+"Hvilke ruter vil du tilføje som standard på kortet?" = "What route should be the default route on the map?";
+
+/* title for alert view shown when an iPhone 4 is used and the view to show is AR VIEW */
+"Ikke understøttet" = "";
+
+/* Text for map button in tabbar */
+"Kort" = "Map";
+
+/* Fortæller om opdatering af route point connections i progress hud */
+"Opdaterer forbindelser" = "";
+
+/* Toast on splash telling that the data are getting updated */
+"Opdaterer indhold" = "Updating content";
+
+/* Toast on splash telling that the data is updated */
+"Opdatering færdig" = "Updating done";
+
+/* title for facts page */
+"Praktisk information" = "Fact and information";
+
+/* Text for routes button in tabbar */
+"Ruter" = "Routes";
+
+/* Text for scan button in tabbar */
+"Scan" = "Scan";
+
+/* No comment provided by engineer. */
+"Vis rute på kortet" = "Show route on map";
+

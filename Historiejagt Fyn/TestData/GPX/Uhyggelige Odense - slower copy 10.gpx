@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gpx
+ version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="55.39586044225234" lon="10.391894280910492">
+ <name>Uhyggelige Odense_Klokkedybet_Odense Å</name>
+ <time>2014-12-02T08:06:30</time>
+</wpt>
+
+</gpx>

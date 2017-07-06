@@ -1,0 +1,90 @@
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "0ee-hB-ByU"; */
+"0ee-hB-ByU.normalTitle" = "O.K.";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "3Ia-am-wnS"; */
+"3Ia-am-wnS.text" = "Titel";
+
+/* Class = "UILabel"; text = "Kortindstillinger"; ObjectID = "5RT-TH-nKk"; */
+"5RT-TH-nKk.text" = "Karteneinstellung";
+
+/* Class = "UILabel"; text = "Historiejagt Fyn"; ObjectID = "7AC-HI-qoa"; */
+"7AC-HI-qoa.text" = "Geschichtesuche Fünen";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "407-cA-32F"; */
+"407-cA-32F.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "AhL-MP-1GL"; */
+"AhL-MP-1GL.normalTitle" = "O.K.";
+
+/* Class = "UITextView"; text = "Question"; ObjectID = "F08-Rj-lip"; */
+"F08-Rj-lip.text" = "Question";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "FR3-NC-uwg"; */
+"FR3-NC-uwg.normalTitle" = "Zurück";
+
+/* Class = "UIButton"; normalTitle = "Se mere"; ObjectID = "Fnq-Gt-mB7"; */
+"Fnq-Gt-mB7.normalTitle" = "Entdecke mehr";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jcq-Fc-tQT"; */
+"Jcq-Fc-tQT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "JtN-yv-HNK"; */
+"JtN-yv-HNK.normalTitle" = "Zurück";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "LC2-PX-aMf"; */
+"LC2-PX-aMf.normalTitle" = "Zurück";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Nt7-pa-gaW"; */
+"Nt7-pa-gaW.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "RHa-ud-MWT"; */
+"RHa-ud-MWT.text" = "Titel";
+
+/* Class = "UIButton"; normalTitle = "Se mere"; ObjectID = "Rm2-rZ-Nne"; */
+"Rm2-rZ-Nne.normalTitle" = "Entdecke mehr";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "ZeH-49-DSd"; */
+"ZeH-49-DSd.normalTitle" = "Zurück";
+
+/* Class = "UILabel"; text = "Velkommen til Historiejagt Fyn"; ObjectID = "aFQ-lI-k7F"; */
+"aFQ-lI-k7F.text" = "Velkommen til Historiejagt Fyn";
+
+/* Class = "UIButton"; normalTitle = "Videre"; ObjectID = "aGF-hi-O6L"; */
+"aGF-hi-O6L.normalTitle" = "Weiter";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "cTt-xM-SF9"; */
+"cTt-xM-SF9.text" = "Scanne das Bild";
+
+/* Class = "UILabel"; text = "Quiz - test dig selv"; ObjectID = "dXi-OH-98N"; */
+"dXi-OH-98N.text" = "Quiz - Testen Sie sich selbst.";
+
+/* Class = "UIButton"; normalTitle = "Se på kort"; ObjectID = "jIN-WV-3TC"; */
+"jIN-WV-3TC.normalTitle" = "Karte";
+
+/* Class = "UILabel"; text = "Ruteoversigt"; ObjectID = "mDQ-Id-6wH"; */
+"mDQ-Id-6wH.text" = "Routenübersicht";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "mVN-Ld-RBn"; */
+"mVN-Ld-RBn.text" = "Titel";
+
+/* Class = "UILabel"; text = "AR View"; ObjectID = "oSq-uP-vsD"; */
+"oSq-uP-vsD.text" = "AR View";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "qGm-Sd-Yqw"; */
+"qGm-Sd-Yqw.text" = "Titel";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "rlA-lp-snF"; */
+"rlA-lp-snF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextView"; text = "Header"; ObjectID = "rpY-47-wQR"; */
+"rpY-47-wQR.text" = "Header";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "wEF-u9-b0Z"; */
+"wEF-u9-b0Z.normalTitle" = "Zurück";
+
+/* Class = "UIButton"; normalTitle = "Tilbage"; ObjectID = "waM-A6-V0y"; */
+"waM-A6-V0y.normalTitle" = "Zurück";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "xxj-Sf-kcX"; */
+"xxj-Sf-kcX.text" = "Titel";
+

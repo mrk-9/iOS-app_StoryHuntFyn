@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gpx
+ version="1.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<wpt lat="55.39201865661595" lon="10.388380587100983">
+ <name>Uhyggelige Odense_Munkene i Mosen_Kong Erik Lam</name>
+ <time>2014-12-02T08:08:00</time>
+</wpt>
+
+</gpx>

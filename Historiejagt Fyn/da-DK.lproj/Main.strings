@@ -1,0 +1,90 @@
+/* Class = "IBUIButton"; normalTitle = "Okay"; ObjectID = "0ee-hB-ByU"; */
+"0ee-hB-ByU.normalTitle" = "Okay";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "3Ia-am-wnS"; */
+"3Ia-am-wnS.text" = "Titel";
+
+/* Class = "IBUILabel"; text = "Kortindstillinger"; ObjectID = "5RT-TH-nKk"; */
+"5RT-TH-nKk.text" = "Kortindstillinger";
+
+/* Class = "IBUILabel"; text = "Historiejagt Fyn"; ObjectID = "7AC-HI-qoa"; */
+"7AC-HI-qoa.text" = "Historiejagt Fyn";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "407-cA-32F"; */
+"407-cA-32F.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Okay"; ObjectID = "AhL-MP-1GL"; */
+"AhL-MP-1GL.normalTitle" = "Okay";
+
+/* Class = "IBUITextView"; text = "Question"; ObjectID = "F08-Rj-lip"; */
+"F08-Rj-lip.text" = "Question";
+
+/* Class = "IBUIButton"; normalTitle = "Tilbage"; ObjectID = "FR3-NC-uwg"; */
+"FR3-NC-uwg.normalTitle" = "Tilbage";
+
+/* Class = "IBUIButton"; normalTitle = "Se mere"; ObjectID = "Fnq-Gt-mB7"; */
+"Fnq-Gt-mB7.normalTitle" = "Se mere";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Jcq-Fc-tQT"; */
+"Jcq-Fc-tQT.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Tilbage"; ObjectID = "JtN-yv-HNK"; */
+"JtN-yv-HNK.normalTitle" = "Tilbage";
+
+/* Class = "IBUIButton"; normalTitle = "Tilbage"; ObjectID = "LC2-PX-aMf"; */
+"LC2-PX-aMf.normalTitle" = "Tilbage";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Nt7-pa-gaW"; */
+"Nt7-pa-gaW.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "RHa-ud-MWT"; */
+"RHa-ud-MWT.text" = "Titel";
+
+/* Class = "IBUIButton"; normalTitle = "Se mere"; ObjectID = "Rm2-rZ-Nne"; */
+"Rm2-rZ-Nne.normalTitle" = "Se mere";
+
+/* Class = "IBUIButton"; normalTitle = "Tilbage"; ObjectID = "ZeH-49-DSd"; */
+"ZeH-49-DSd.normalTitle" = "Tilbage";
+
+/* Class = "IBUILabel"; text = "Velkommen til Historiejagt Fyn"; ObjectID = "aFQ-lI-k7F"; */
+"aFQ-lI-k7F.text" = "Velkommen til Historiejagt Fyn";
+
+/* Class = "IBUIButton"; normalTitle = "Videre"; ObjectID = "aGF-hi-O6L"; */
+"aGF-hi-O6L.normalTitle" = "Videre";
+
+/* Class = "IBUILabel"; text = "Scan"; ObjectID = "cTt-xM-SF9"; */
+"cTt-xM-SF9.text" = "Scan billedet";
+
+/* Class = "IBUILabel"; text = "Quiz - test dig selv"; ObjectID = "dXi-OH-98N"; */
+"dXi-OH-98N.text" = "Quiz - test dig selv";
+
+/* Class = "IBUIButton"; normalTitle = "Se på kort"; ObjectID = "jIN-WV-3TC"; */
+"jIN-WV-3TC.normalTitle" = "Se på kort";
+
+/* Class = "IBUILabel"; text = "Ruteoversigt"; ObjectID = "mDQ-Id-6wH"; */
+"mDQ-Id-6wH.text" = "Ruteoversigt";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "mVN-Ld-RBn"; */
+"mVN-Ld-RBn.text" = "Titel";
+
+/* Class = "IBUILabel"; text = "AR View"; ObjectID = "oSq-uP-vsD"; */
+"oSq-uP-vsD.text" = "Fang historien!";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "qGm-Sd-Yqw"; */
+"qGm-Sd-Yqw.text" = "Titel";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "rlA-lp-snF"; */
+"rlA-lp-snF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUITextView"; text = "Header"; ObjectID = "rpY-47-wQR"; */
+"rpY-47-wQR.text" = "Header";
+
+/* Class = "IBUIButton"; normalTitle = "Tilbage"; ObjectID = "wEF-u9-b0Z"; */
+"wEF-u9-b0Z.normalTitle" = "Tilbage";
+
+/* Class = "IBUIButton"; normalTitle = "Tilbage"; ObjectID = "waM-A6-V0y"; */
+"waM-A6-V0y.normalTitle" = "Tilbage";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "xxj-Sf-kcX"; */
+"xxj-Sf-kcX.text" = "Titel";
+

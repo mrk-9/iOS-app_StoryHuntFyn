@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Historiejagt Fyn Portaplay.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Historiejagt Fyn Woerk Enterprise.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Historiejagt Fyn woerk enterprise.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>683AD44C1A6FFA1000ED2E65</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>683AD4651A6FFA1000ED2E65</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68B56B661A8E020A00E5C953</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68C396521A838E5D007064AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

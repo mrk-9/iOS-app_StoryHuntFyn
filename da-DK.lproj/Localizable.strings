@@ -1,0 +1,24 @@
+/* Combined title and amount of total */
+"%@: %ld af %ld" = "%1$@: Geladen %2$ld von %3$ld";
+
+/* No comment provided by engineer. */
+"Afspil lyde automatisk" = "Geräusche automatisch abspielen";
+
+/* Text for alert view telling that the user must be closer to this poi to see info */
+"Besøg stedet, for at åbne for denne historie." = "Besuchen Sie die Position um die Geschichte zu fangen und zu erleben.";
+
+/* The message to send as local notification */
+"Du har fundet et punkt: %@" = "";
+
+/* Description about settings */
+"Her kan du ændre indstillinger vedrørende kort og brugen af dette" = "Hier können sie die Einstellungen für die Karte und die Anwendung der Karte ändern.";
+
+/* Description - which routes to show per default on map */
+"Hvilke ruter vil du tilføje som standard på kortet?" = "Welche Routen wollen Sie als Standard zur Karte hinzufügen?";
+
+/* title for facts page */
+"Praktisk information" = "Praktische Informationen";
+
+/* No comment provided by engineer. */
+"Vis rute på kortet" = "Route auf der Karte zeigen";
+
